@@ -7,3 +7,4 @@ local branch 2
 =======
 Brach push
 >>>>>>> 1748a532d938e0502eaeb3d0ed283900d1fd2f2c
+git fecth

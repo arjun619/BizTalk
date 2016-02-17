@@ -2,4 +2,8 @@ line number 1
 line number 2
 line number 3
 this is hotfix
+<<<<<<< HEAD
 local branch 2
+=======
+Brach push
+>>>>>>> 1748a532d938e0502eaeb3d0ed283900d1fd2f2c

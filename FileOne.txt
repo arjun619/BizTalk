@@ -7,4 +7,8 @@ local branch 2
 =======
 Brach push
 >>>>>>> 1748a532d938e0502eaeb3d0ed283900d1fd2f2c
+<<<<<<< HEAD
 my code
+=======
+git fecth
+>>>>>>> 56981ced422d9b07fbd39012ea80201c45e6f19e
